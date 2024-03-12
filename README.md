@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **The Odin Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhi6777?tab=repositories](https://github.com/abhi6777?tab=repositories)
+- 👨‍💻 All of my projects are available at [Twitter](https://github.com/abhi6777?tab=repositories)
 
 - 📝 I regularly write Post on [https://twitter.com/Abhimanyu_codes](https://twitter.com/Abhimanyu_codes)
 
